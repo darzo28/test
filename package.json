@@ -1,5 +1,5 @@
 {
-  "name": "@darzo28/test",
+  "name": "@wandalor/test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,6 @@
     "url": "git+https://github.com/darzo28/test.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@wandalor/registry": "https://npm.pkg.github.com"
   }
 }
