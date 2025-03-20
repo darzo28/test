@@ -7,12 +7,12 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/darzo28/test.git"
   },
   "publishConfig": {
-    "@wandalor:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@wandalor"
   }
 }
